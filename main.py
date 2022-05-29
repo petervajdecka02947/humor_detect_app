@@ -22,7 +22,7 @@ async def get_template(text: str):
     return model.get_prediction(text)
 
 
-if __name__ == "__main__":
-    uvicorn.run("main:app")
+#if __name__ == "__main__":
+#    uvicorn.run("main:app")
 
 
