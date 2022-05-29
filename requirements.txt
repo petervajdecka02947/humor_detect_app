@@ -5,7 +5,6 @@ matplotlib==3.5.1
 numpy
 pandas
 pydantic
-python-dateutil
 regex==2021.11.10
 scikit-learn==0.23.1
 ufal.morphodita==1.10.1.1
